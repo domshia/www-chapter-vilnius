@@ -15,6 +15,24 @@ Will be announced.
 
 ## Past Events
 
+#### **OWASP Lithuania meeting \#11**
+
+**Speakers**:
+
+  - Tomas Savėnas "Evaluating security while sitting at the dinner table"
+  - Tomas Beinoravičius "Investigation of O365 incidents".
+
+**Date:** 6 November 2019
+
+**Time:** 18:30 - 20:30
+
+**Location:** Visma Lietuva, Giedraičių g.3, Vilnius
+
+**Register**:
+<https://www.eventbrite.com/e/owasp-lithuania-chapter-meeting-11-tickets-78435289061>
+
+-----
+
 #### **OWASP Lithuania meeting \#10**
 
 **Speakers**:
