@@ -31,13 +31,6 @@ The chapter leader are [Dominykas Šeikis](mailto:dominykas.seikis@owasp.org) an
 Call For Speakers is open. If you want to present a talk at one of our meetings / events please review and agree with the
 [OWASP Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)) and send the proposed talk title, abstract and speaker bio to the [Chapter Leaders](leaders.md) via e-mail.
 
-<li>
-
-
-
-</li>
-
-<li>
-
-In case that you have any questions about the OWASP Lithuania Chapter, please
-send an email to [Dominykas Šeikis](mailto:dominykas.seikis@owasp.org).
+#### Code of Conduct:
+We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leaders if you have any feedback or would like
+to speak to us, we take these matters very seriously. You can find out more about [our policies here](https://owasp.org/www-policy/operational/code-of-conduct). 
