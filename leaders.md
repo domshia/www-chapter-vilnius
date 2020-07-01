@@ -1,3 +1,5 @@
 <!--### Leaders
 -->
-Dominykas Seikis
+****Leaders
+Dominykas Šeikis
+Miroslav Lučinskij
