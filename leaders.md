@@ -1,5 +1,3 @@
-<!--### Leaders
--->
-****Leaders
-Dominykas Šeikis
-Miroslav Lučinskij
+### Leaders
+* [Dominykas Šeikis](mailto:dominykas.seikis@owasp.org)
+* Miroslav Lučinskij
