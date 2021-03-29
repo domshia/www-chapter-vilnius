@@ -10,7 +10,7 @@ region: Europe
 ---
 # Welcome
 
-## Welcome to the OWASP Lithuania Chapter Homepage
+## Welcome to the OWASP Vilnius Chapter Homepage
 
 
 Follow us on [Facebook.](https://www.facebook.com/OWASPLithuania/)
