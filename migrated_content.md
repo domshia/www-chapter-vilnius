@@ -15,6 +15,54 @@ Will be announced.
 
 ## Past Events
 
+#### **OWASP Lithuania meeting \#13**
+
+**Speakers**:
+
+  - Alvaro Schuller @Critical Security - "Template Injection, from 2+2 to RCE " 
+  - Paulius Leščinskas @Adform - "Best practices for Cloud Storage Security"
+
+**Date:** 25 March 2021
+
+**Time:** 18:00 - 20:00
+
+**Location:** ONLINE EVENT
+
+**Register**:
+<https://www.eventbrite.com/e/owasp-lithuania-chapter-meeting-13-tickets-146340106197>
+
+#### **OWASP Lithuania meeting \#12**
+
+**Speakers**:
+
+  - Andrius Januta @Tesonet "You get a Cyber Range, and you get a Cyber Range, EVERYONE gets a Cyber Range!!!"
+  - Jokūbas Arsoba @SEC Consult "Hacking unicode : the forgotten vector"
+
+**Date:** 1 July 2020
+
+**Time:** 18:30 - 20:30
+
+**Location:** Visma Lietuva, Giedraičiu g. 3, Vilnius
+
+**Register**:
+<https://www.eventbrite.com/e/owasp-lithuania-chapter-meeting-12-tickets-109969381380>
+
+#### **OWASP Lithuania meeting \#11**
+
+**Speakers**:
+
+  - Tomas Savėnas "Evaluating security while sitting at the dinner table"
+  - Tomas Beinaravičius "Investigation of O365 incidents"
+
+**Date:** 6 November 2019
+
+**Time:** 18:30 - 20:30
+
+**Location:** Visma Lietuva, Giedraičiu g. 3, Vilnius
+
+**Register**:
+<https://www.eventbrite.com/e/owasp-lithuania-chapter-meeting-11-tickets-78435289061>
+
 #### **OWASP Lithuania meeting \#10**
 
 **Speakers**:
