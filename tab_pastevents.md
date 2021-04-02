@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP Lithuania
-tags: example-tag
+title: Past Events
+tags: Vilnius
 level: 0
 
 region: Europe
